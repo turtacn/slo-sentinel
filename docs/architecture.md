@@ -458,8 +458,8 @@ graph TB
 
 ## 参考资料
 
-\[1] OpenSLO Specification - [https://github.com/OpenSLO/OpenSLO](https://github.com/OpenSLO/OpenSLO)
-\[2] VictoriaMetrics Documentation - [https://docs.victoriametrics.com/](https://docs.victoriametrics.com/)
-\[3] OpenTelemetry Specification - [https://opentelemetry.io/docs/specs/](https://opentelemetry.io/docs/specs/)
-\[4] Prometheus Query Language - [https://prometheus.io/docs/prometheus/latest/querying/](https://prometheus.io/docs/prometheus/latest/querying/)
-\[5] Site Reliability Engineering - [https://sre.google/](https://sre.google/)
+* \[1] OpenSLO Specification - [https://github.com/OpenSLO/OpenSLO](https://github.com/OpenSLO/OpenSLO)
+* \[2] VictoriaMetrics Documentation - [https://docs.victoriametrics.com/](https://docs.victoriametrics.com/)
+* \[3] OpenTelemetry Specification - [https://opentelemetry.io/docs/specs/](https://opentelemetry.io/docs/specs/)
+* \[4] Prometheus Query Language - [https://prometheus.io/docs/prometheus/latest/querying/](https://prometheus.io/docs/prometheus/latest/querying/)
+* \[5] Site Reliability Engineering - [https://sre.google/](https://sre.google/)
