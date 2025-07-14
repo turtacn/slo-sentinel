@@ -32,7 +32,7 @@ SLO Sentinel 是一个面向AI时代的高性能SLO监控和执行引擎，作�
 SLO Sentinel基于以下核心理念设计：
 
 ```mermaid
-graph TB
+graph TD
     subgraph SP[标准化优先（Standards Priority）]
         SP1[OpenSLO规范兼容]
         SP2[统一数据模型]
@@ -67,7 +67,7 @@ graph TB
 #### 3.2.1 分层架构
 
 ```mermaid
-graph TB
+graph TD
     subgraph AL[应用层（Application Layer）]
         A1[REST API服务]
         A2[gRPC服务]
@@ -269,7 +269,7 @@ classDiagram
 ### 5.2 计算引擎设计
 
 ```mermaid
-graph TB
+graph LR
     subgraph CE[计算引擎（Compute Engine）]
         CE1[调度器（Scheduler）]
         CE2[任务队列（Task Queue）]
