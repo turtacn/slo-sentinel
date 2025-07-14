@@ -132,7 +132,7 @@ sequenceDiagram
 ### 3.3 数据流架构
 
 ```mermaid
-graph LR
+graph TD
     subgraph DS[数据源层（Data Sources）]
         DS1[Prometheus]
         DS2[Datadog]
